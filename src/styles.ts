@@ -11,7 +11,7 @@ const fadeIn = keyframes`
 
 
 export const LeaderboardContainer = styled.div`
-  width: 500px;
+  width: 60%;
   margin: 0 auto;
   text-align: center;
   font-family: Arial, sans-serif;
