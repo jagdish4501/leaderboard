@@ -4,7 +4,7 @@ import Leaderboard from './components/Leaderboard';
 const App: React.FC = () => {
   return (
     <div>
-      <h1 style={{textAlign:'center',}}>Leaderboard MRIKAL</h1>
+      <h1 style={{textAlign:'center'}}>Leaderboard MRIKAL</h1>
       <Leaderboard />
     </div>
   );
